@@ -1,0 +1,14 @@
+{
+  "name": "rupiah-format",
+  "version": "1.0.0",
+  "description": "konversi angka ke rupiah",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "keywords": [
+    "rupiah", "indonesian rupiah", "format rupiah", "indonesia curency"
+  ],
+  "author": "ikiteloo",
+  "license": "ISC"
+}
